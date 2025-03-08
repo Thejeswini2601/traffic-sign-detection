@@ -1,4 +1,4 @@
-# traffic-sign-detection
+# Traffic-sign-detection
 This project is aimed at building a machine learning model to classify Indian traffic signs using deep learning. The model is trained on a dataset containing 59 classes of traffic signs and predicts the category of a traffic sign from an image input.
 
 
@@ -28,6 +28,6 @@ The model is compiled with the Adam optimizer and categorical cross-entropy loss
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your-username/traffic-sign-classifier.git
+git clone https://github.com/Thejeswini2601/traffic-sign-detection.git
 cd traffic-sign-classifier
 pip install -r requirements.txt
